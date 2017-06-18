@@ -1,0 +1,48 @@
+Warning: express.createServer() is deprecated, express
+applications no longer inherit from http.Server,
+please use:
+
+  var express = require("express");
+  var app = express();
+
+connect.multipart() will be removed in connect 3.0
+visit https://github.com/senchalabs/connect/wiki/Connect-3.0 for alternatives
+connect.limit() will be removed in connect 3.0
+Web server has started.
+Please log on http://127.0.0.1:3001/index.html
+Warning: express.createServer() is deprecated, express
+applications no longer inherit from http.Server,
+please use:
+
+  var express = require("express");
+  var app = express();
+
+connect.multipart() will be removed in connect 3.0
+visit https://github.com/senchalabs/connect/wiki/Connect-3.0 for alternatives
+connect.limit() will be removed in connect 3.0
+Web server has started.
+Please log on http://127.0.0.1:3001/index.html
+Warning: express.createServer() is deprecated, express
+applications no longer inherit from http.Server,
+please use:
+
+  var express = require("express");
+  var app = express();
+
+connect.multipart() will be removed in connect 3.0
+visit https://github.com/senchalabs/connect/wiki/Connect-3.0 for alternatives
+connect.limit() will be removed in connect 3.0
+Web server has started.
+Please log on http://127.0.0.1:3001/index.html
+Warning: express.createServer() is deprecated, express
+applications no longer inherit from http.Server,
+please use:
+
+  var express = require("express");
+  var app = express();
+
+connect.multipart() will be removed in connect 3.0
+visit https://github.com/senchalabs/connect/wiki/Connect-3.0 for alternatives
+connect.limit() will be removed in connect 3.0
+Web server has started.
+Please log on http://127.0.0.1:3001/index.html
